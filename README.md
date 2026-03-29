@@ -36,14 +36,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=the-nidhi-bhat.the-nidhi-bhat&"  />
-</div>
-
-###
