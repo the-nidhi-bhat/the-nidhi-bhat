@@ -65,42 +65,6 @@ PROJECT SIGNALS
 > The goal is to surface explainable signals worth investigating.
 
 ---
-
-
-## 🚀 Featured Projects
-
-### 🛰️ MPLADS Sentinel
-
-Explainable AI and data-driven audit signals for public-development projects.
-
-**Stack:**
-
-Python · FastAPI · PostgreSQL · PostGIS · Pandas · Scikit-learn · NetworkX · Next.js
-
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=mplads)
-
-### 🌿 Mindful Haven
-
-A digital wellbeing platform designed around a calmer and more approachable user experience.
-
-**Stack:**
-
-Next.js · React · TypeScript · Supabase · Tailwind CSS
-
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=mindful)
-
-### ☁️ Sky Predict
-
-A weather-focused project exploring prediction, useful data, and interactive experiences.
-
-**Stack:**
-
-Python · Data · Web
-
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=sky)
-
----
-
 ## 🧰 Tech Stack
 
 ### 💻 Languages
@@ -159,7 +123,7 @@ Python · Data · Web
 </p>
 
 <p align="center">
-    <img src="./assets/nebula.gif" width="100%" alt="Nebula animation" />
+    <img src="./assets/me.gif" width="100%" alt="Nebula animation" />
 </p>
 
 ---
