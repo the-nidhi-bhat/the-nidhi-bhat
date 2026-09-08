@@ -59,7 +59,6 @@ PROJECT SIGNALS
               │
               ▼
       RISK PRIORITIZATION
-              │
               ▼
       HUMAN INVESTIGATION
 ```
@@ -69,7 +68,6 @@ PROJECT SIGNALS
 
 ---
 
-## 🚀 Featured Projects
 
 ### 🛰️ MPLADS Sentinel
 
@@ -101,35 +99,68 @@ Python · Data · Web
 
 [View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=sky)
 
-### 📊 TallyHer
-
-A full-stack project focused on practical workflows and user-centered digital tools.
-
-**Stack:**
-
-Next.js · React · TypeScript · Supabase · PostgreSQL
-
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=tally)
-
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Using
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+<p>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" alt="Python, C, C++, HTML, CSS, and JavaScript" />
+</p>
 
-### Building With
+### ⚛️ Frontend & UI
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma" alt="React, Next.js, TypeScript, Tailwind CSS, and Figma" />
+</p>
 
-### AI / Data
+### 🧠 Backend & Databases
 
-`Scikit-learn` · `Pandas` · `Sentence Transformers` · `NetworkX` · `Generative AI` · `Prompt Engineering`
+<p>
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres,mongodb" alt="FastAPI, Node.js, Supabase, PostgreSQL, and MongoDB" />
+</p>
 
-### Exploring
+### 🤖 AI / ML / Data
 
-`Node.js` · `DSA` · `Full-Stack Systems` · `Data Visualization` · `UI/UX`
+<p>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" alt="Python, Scikit-learn, and PyTorch" />
+</p>
+
+<p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/NetworkX-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" />
+    <img src="https://img.shields.io/badge/Sentence_Transformers-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="Sentence Transformers" />
+    <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+    <img src="https://img.shields.io/badge/Prompt_Engineering-22D3EE?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+### 🛠️ Tools & Workflow
+
+<p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,postman" alt="Git, GitHub, VS Code, Docker, Vercel, and Postman" />
+</p>
+
+### 🌐 Deployment & Cloud
+
+<p>
+    <img src="https://skillicons.dev/icons?i=vercel,docker,gcp,aws" alt="Vercel, Docker, Google Cloud, and AWS" />
+</p>
+
+### 📊 Currently Exploring
+
+<p>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,typescript" alt="React, Node.js, and TypeScript" />
+</p>
+
+<p align="center">
+    <b>DSA</b> • <b>Full-Stack Systems</b> • <b>Data Visualization</b> • <b>UI/UX</b> • <b>AI/ML</b>
+</p>
+
+<p align="center">
+    <img src="./assets/nebula.gif" width="100%" alt="Nebula animation" />
+</p>
 
 ---
 
