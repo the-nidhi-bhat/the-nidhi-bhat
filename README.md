@@ -102,19 +102,51 @@ A playful pixel-art project built around character, interaction, and visual expe
 ---
 ## Tech Stack
 
-**Languages:** Python, C, C++, HTML, CSS, JavaScript
+### Languages
 
-**Frontend & UI:** React, Next.js, TypeScript, Tailwind CSS, Figma
+<p>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" alt="Python, C, C++, HTML, CSS, JavaScript" />
+</p>
 
-**Backend & Databases:** FastAPI, Supabase, PostgreSQL
+### Frontend &amp; UI
 
-**AI / ML / Data:** Scikit-learn, Pandas, NumPy, NetworkX, Sentence Transformers, Generative AI, Prompt Engineering
+<p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma" alt="React, Next.js, TypeScript, Tailwind CSS, Figma" />
+</p>
 
-**Tools & Workflow:** Git, GitHub, VS Code, Postman
+### Backend &amp; Databases
 
-**Deployment:** Vercel, Netlify, Render, Google Cloud, AWS, Docker
+<p>
+    <img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres" alt="FastAPI, Supabase, PostgreSQL" />
+</p>
 
-**Currently Exploring:** Node.js, MongoDB, PyTorch
+### AI / ML / Data
+
+<p>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy" alt="Scikit-learn, Pandas, NumPy" />
+    <img src="https://img.shields.io/badge/NetworkX-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" />
+    <img src="https://img.shields.io/badge/Sentence%20Transformers-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="Sentence Transformers" />
+    <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-0891B2?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+### Tools &amp; Workflow
+
+<p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" />
+</p>
+
+### Deployment
+
+<p>
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,render,gcp,aws,docker" alt="Vercel, Netlify, Render, Google Cloud, AWS, Docker" />
+</p>
+
+### Currently Exploring
+
+<p>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,pytorch" alt="Node.js, MongoDB, PyTorch" />
+</p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/me.gif" width="100%" alt="Nebula animation" />
