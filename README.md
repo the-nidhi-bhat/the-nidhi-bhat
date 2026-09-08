@@ -1,7 +1,7 @@
 # NIDHI 
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0e7490,100:22d3ee&height=220&section=header&text=NIDHI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSBS%20%7C%20SOFTWARE%20%7C%20AI%20%7C%20UI%2FUX&descAlignY=60&descSize=18&animation=twinkling" alt="Nidhi header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:155e75,100:0891b2&height=220&section=header&text=NIDHI&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Software%20Engineer%20building%20things%20that%20matter&descAlignY=60&descSize=18&animation=fadeIn&stroke=00d9ff&strokeWidth=1" alt="Nidhi header" width="100%" />
 </p>
 
 <p align="center">
@@ -230,15 +230,6 @@ Now go build something. 🚀
 ```
 
 ---
-
-## 🌐 Connect
-
-<p align="center">
-    <a href="https://github.com/the-nidhi-bhat">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/the-nidhi-bhat/">LinkedIn</a> ·
-    <a href="https://nidhi-portfolio-rosy.vercel.app/">Portfolio</a> ·
-    <a href="mailto:the.nidhi.bhat@gmail.com">Email</a>
-</p>
 
 <p align="center">
     <i>keep building. keep learning.</i>
