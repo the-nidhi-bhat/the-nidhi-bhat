@@ -1,4 +1,4 @@
-# NIDHI // BUILD MODE
+# NIDHI 
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0e7490,100:22d3ee&height=220&section=header&text=NIDHI%20BHAT&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSBS%20%7C%20SOFTWARE%20%7C%20AI%20%7C%20UI%2FUX&descAlignY=60&descSize=18&animation=twinkling" alt="Nidhi Bhat header" width="100%" />
