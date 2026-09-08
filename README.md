@@ -1,7 +1,7 @@
 # NIDHI 
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:155e75,100:0891b2&height=220&section=header&text=NIDHI&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20WEB%20BUILDER&descAlignY=60&descSize=18&animation=fadeIn&stroke=00d9ff&strokeWidth=1&v=3" alt="Nidhi, software developer and AI web builder" width="100%" />
+    <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
 </p>
 
 <p align="center">

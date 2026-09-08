@@ -1,0 +1,24 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B1F"/>
+      <stop offset="0.55" stop-color="#123B58"/>
+      <stop offset="1" stop-color="#0891B2"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="url(#background)"/>
+  <circle cx="1030" cy="38" r="130" fill="#22D3EE" fill-opacity="0.08" filter="url(#softGlow)"/>
+  <circle cx="165" cy="235" r="120" fill="#0E7490" fill-opacity="0.16" filter="url(#softGlow)"/>
+  <path d="M0 214C220 182 354 238 576 208C795 178 956 194 1200 142V260H0V214Z" fill="#06101D" fill-opacity="0.7"/>
+  <rect x="90" y="192" width="1020" height="2" fill="url(#glow)"/>
+  <text x="600" y="116" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="3">NIDHI</text>
+  <text x="600" y="158" text-anchor="middle" fill="#C9EAF2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="2">SOFTWARE DEVELOPER | AI &amp; WEB BUILDER</text>
+</svg>
