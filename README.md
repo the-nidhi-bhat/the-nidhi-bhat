@@ -15,8 +15,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=building+useful+things+with+curiosity;turning+ideas+into+working+software;learning+in+public%2C+one+project+at+a+time" alt="Typing introduction" />
 </p>
 
-<!-- Add assets/nebula.gif and assets/blackhole.gif when the original GIFs are uploaded. -->
-
 ## `NIDHI.EXE`
 
 ```text
@@ -69,6 +67,8 @@ PROJECT SIGNALS
 ---
 
 
+## 🚀 Featured Projects
+
 ### 🛰️ MPLADS Sentinel
 
 Explainable AI and data-driven audit signals for public-development projects.
@@ -118,13 +118,13 @@ Python · Data · Web
 ### 🧠 Backend & Databases
 
 <p>
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres,mongodb" alt="FastAPI, Node.js, Supabase, PostgreSQL, and MongoDB" />
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres" alt="FastAPI, Node.js, Supabase, and PostgreSQL" />
 </p>
 
 ### 🤖 AI / ML / Data
 
 <p>
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" alt="Python, Scikit-learn, and PyTorch" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and Scikit-learn" />
 </p>
 
 <p>
@@ -139,19 +139,19 @@ Python · Data · Web
 ### 🛠️ Tools & Workflow
 
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,postman" alt="Git, GitHub, VS Code, Docker, Vercel, and Postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code, and Vercel" />
 </p>
 
 ### 🌐 Deployment & Cloud
 
 <p>
-    <img src="https://skillicons.dev/icons?i=vercel,docker,gcp,aws" alt="Vercel, Docker, Google Cloud, and AWS" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
 </p>
 
 ### 📊 Currently Exploring
 
 <p>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,typescript" alt="React, Node.js, and TypeScript" />
+    <img src="https://skillicons.dev/icons?i=mongodb,pytorch,docker,gcp,aws" alt="MongoDB, PyTorch, Docker, Google Cloud, and AWS" />
 </p>
 
 <p align="center">
@@ -161,12 +161,6 @@ Python · Data · Web
 <p align="center">
     <img src="./assets/nebula.gif" width="100%" alt="Nebula animation" />
 </p>
-
----
-
-## 🎧 Now Playing
-
-Currently offline, still shipping.
 
 ---
 
