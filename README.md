@@ -1,7 +1,7 @@
 # NIDHI 
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0e7490,100:22d3ee&height=220&section=header&text=NIDHI%20BHAT&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSBS%20%7C%20SOFTWARE%20%7C%20AI%20%7C%20UI%2FUX&descAlignY=60&descSize=18&animation=twinkling" alt="Nidhi Bhat header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0e7490,100:22d3ee&height=220&section=header&text=NIDHI%20BHAT&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSBS%20%7C%20SOFTWARE%20%7C%20AI%20%7C%20UI%2FUX&descAlignY=60&descSize=18&animation=twinkling" alt="Nidhi  header" width="100%" />
 </p>
 
 <p align="center">
@@ -38,31 +38,66 @@ I like taking messy problems, finding the signal inside them, and turning that s
 
 ---
 
-## ⚡ Currently Building
+## 🔗 Featured Works
 
-### MPLADS Sentinel
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Explainable AI for audit prioritization.**
+### 🛰️ MPLADS Sentinel
 
-A system focused on turning public-development data into clear, reviewable signals so human investigators can decide where attention matters most.
+Explainable AI and data-driven audit signals for public-development projects.
 
-```text
-PROJECT SIGNALS
-      │
-      ├── COST
-      ├── TIME
-      ├── GEO
-      ├── AGENCY
-      └── RELATIONSHIP GRAPH
-              │
-              ▼
-      RISK PRIORITIZATION
-              ▼
-      HUMAN INVESTIGATION
-```
+- Python, FastAPI, PostgreSQL
+- PostGIS, Pandas, Scikit-learn
+- NetworkX, Next.js
 
-> The goal isn't to declare fraud.
-> The goal is to surface explainable signals worth investigating.
+[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=mplads)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Mindful Haven
+
+A digital wellbeing platform designed around a calmer and more approachable user experience.
+
+- Next.js, React, TypeScript
+- Supabase, Tailwind CSS
+- Human-centered interface design
+
+[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=mindful)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Sky Predict
+
+A weather-focused project exploring prediction, useful data, and interactive experiences.
+
+- Python and data workflows
+- Web-based visual exploration
+- Practical prediction experiences
+
+[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=sky)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 TallyHer
+
+A full-stack project focused on practical workflows and user-centered digital tools.
+
+- Next.js, React, TypeScript
+- Supabase, PostgreSQL
+- Full-stack product thinking
+
+[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=tally)
+
+</td>
+</tr>
+</table>
 
 ---
 ## 🧰 Tech Stack
@@ -145,10 +180,6 @@ PROJECT SIGNALS
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-nidhi-bhat&theme=github_dark" width="32%" alt="Repositories per language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-nidhi-bhat&theme=github_dark" width="32%" alt="Most committed language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-nidhi-bhat&theme=github_dark" width="32%" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-nidhi-bhat&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" width="95%" alt="Nidhi's GitHub Activity Graph" />
 </p>
 
 ---
