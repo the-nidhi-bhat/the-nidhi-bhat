@@ -158,7 +158,7 @@ A playful pixel-art project built around character, interaction, and visual expe
 </p>
 
 <p align="center">
-    <img src="./assets/me.gif" width="100%" alt="Nebula animation" />
+    <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/me.gif" width="100%" alt="Nebula animation" />
 </p>
 
 ---
