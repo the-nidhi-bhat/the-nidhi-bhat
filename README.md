@@ -1,4 +1,4 @@
-# NIDHI 
+# ABOUT ME
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
