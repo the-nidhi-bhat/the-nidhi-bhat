@@ -40,7 +40,7 @@ I like taking messy problems, finding the signal inside them, and turning that s
 
 ## 🔗 Featured Works
 
-<table>
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -85,15 +85,15 @@ A weather-focused project exploring prediction, useful data, and interactive exp
 </td>
 <td width="50%" valign="top">
 
-### 📊 TallyHer
+### 🐱 Pixel Cat
 
-A full-stack project focused on practical workflows and user-centered digital tools.
+A playful pixel-art project built around character, interaction, and visual experimentation.
 
-- Next.js, React, TypeScript
-- Supabase, PostgreSQL
-- Full-stack product thinking
+- Creative coding and visual design
+- Interactive web experience
+- Pixel-art driven interface
 
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=tally)
+[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=pixel-cat)
 
 </td>
 </tr>
