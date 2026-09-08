@@ -139,21 +139,27 @@ Currently offline, still shipping.
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" alt="Section divider" />
+
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=the-nidhi-bhat&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Extended GitHub stats" width="49%" />
-    <img src="https://streak-stats.demolab.com?user=the-nidhi-bhat&hide_border=true&theme=github-dark&v=3" alt="GitHub streak" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=the-nidhi-bhat&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%" alt="Nidhi's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=the-nidhi-bhat&hide_border=true&theme=github-dark&v=3" width="49%" alt="Nidhi's GitHub Streak" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-nidhi-bhat&theme=github_dark" alt="GitHub profile summary" width="95%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-nidhi-bhat&theme=github_dark" width="95%" alt="Nidhi's GitHub Profile Details" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-nidhi-bhat&theme=github_dark" alt="Repositories per language" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-nidhi-bhat&theme=github_dark" alt="Most commit language" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-nidhi-bhat&theme=github_dark" alt="GitHub summary stats" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-nidhi-bhat&theme=github_dark" width="32%" alt="Repositories per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-nidhi-bhat&theme=github_dark" width="32%" alt="Most committed language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-nidhi-bhat&theme=github_dark" width="32%" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-nidhi-bhat&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" width="95%" alt="Nidhi's GitHub Activity Graph" />
 </p>
 
 ---
