@@ -1,7 +1,7 @@
 # NIDHI 
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,50:155e75,100:0891b2&amp;height=220&amp;section=header&amp;text=NIDHI&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=AI%20%26%20Software%20Engineer%20building%20things%20that%20matter&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn&amp;stroke=00d9ff&amp;strokeWidth=1" alt="Nidhi header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:155e75,100:0891b2&height=220&section=header&text=NIDHI&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Software%20Engineer%20building%20things%20that%20matter&descAlignY=60&descSize=18&animation=fadeIn&stroke=00d9ff&strokeWidth=1" alt="Nidhi header" width="100%" />
 </p>
 
 <p align="center">
