@@ -100,62 +100,21 @@ A playful pixel-art project built around character, interaction, and visual expe
 </table>
 
 ---
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+**Languages:** Python, C, C++, HTML, CSS, JavaScript
 
-<p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" alt="Python, C, C++, HTML, CSS, and JavaScript" />
-</p>
+**Frontend & UI:** React, Next.js, TypeScript, Tailwind CSS, Figma
 
-### ⚛️ Frontend & UI
+**Backend & Databases:** FastAPI, Supabase, PostgreSQL
 
-<p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma" alt="React, Next.js, TypeScript, Tailwind CSS, and Figma" />
-</p>
+**AI / ML / Data:** Scikit-learn, Pandas, NumPy, NetworkX, Sentence Transformers, Generative AI, Prompt Engineering
 
-### 🧠 Backend & Databases
+**Tools & Workflow:** Git, GitHub, VS Code, Postman
 
-<p>
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres" alt="FastAPI, Node.js, Supabase, and PostgreSQL" />
-</p>
+**Deployment:** Vercel, Netlify, Render, Google Cloud, AWS, Docker
 
-### 🤖 AI / ML / Data
-
-<p>
-    <img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and Scikit-learn" />
-</p>
-
-<p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/NetworkX-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" />
-    <img src="https://img.shields.io/badge/Sentence_Transformers-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="Sentence Transformers" />
-    <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-    <img src="https://img.shields.io/badge/Prompt_Engineering-22D3EE?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
-</p>
-
-### 🛠️ Tools & Workflow
-
-<p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code, and Vercel" />
-</p>
-
-### 🌐 Deployment & Cloud
-
-<p>
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-</p>
-
-### 📊 Currently Exploring
-
-<p>
-    <img src="https://skillicons.dev/icons?i=mongodb,pytorch,docker,gcp,aws" alt="MongoDB, PyTorch, Docker, Google Cloud, and AWS" />
-</p>
-
-<p align="center">
-    <b>DSA</b> • <b>Full-Stack Systems</b> • <b>Data Visualization</b> • <b>UI/UX</b> • <b>AI/ML</b>
-</p>
+**Currently Exploring:** Node.js, MongoDB, PyTorch
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/me.gif" width="100%" alt="Nebula animation" />
