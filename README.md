@@ -1,7 +1,7 @@
 # NIDHI 
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:155e75,100:0891b2&height=220&section=header&text=NIDHI&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=CSBS%20%7C%20SOFTWARE%20%7C%20AI%20%7C%20UI%2FUX&descAlignY=60&descSize=18&animation=fadeIn&stroke=00d9ff&strokeWidth=1&v=2" alt="Nidhi header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:155e75,100:0891b2&height=220&section=header&text=NIDHI&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20WEB%20BUILDER&descAlignY=60&descSize=18&animation=fadeIn&stroke=00d9ff&strokeWidth=1&v=3" alt="Nidhi, software developer and AI web builder" width="100%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=building+useful+things+with+curiosity;turning+ideas+into+working+software;learning+in+public%2C+one+project+at+a+time" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=building+thoughtful+software+with+real+purpose;turning+complex+problems+into+clear+experiences;learning%2C+building%2C+and+shipping+with+intent" alt="Professional developer introduction" />
 </p>
 
 ## `NIDHI.EXE`
