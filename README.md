@@ -38,115 +38,44 @@ I like taking messy problems, finding the signal inside them, and turning that s
 
 ---
 
-## 🔗 Featured Works
+## Featured Works
 
-<table border="1" cellpadding="14" cellspacing="0" width="100%">
-<tr>
-<td width="50%" valign="top">
+These are learning projects and experiments. Their tools reflect what I am exploring, not expert-level experience.
 
-### 🛰️ MPLADS Sentinel
+### MPLADS Sentinel
 
-Explainable AI and data-driven audit signals for public-development projects.
+An experiment with explainable AI and data-driven audit signals for public-development projects.
 
-- Python, FastAPI, PostgreSQL
-- PostGIS, Pandas, Scikit-learn
-- NetworkX, Next.js
+### Mindful Haven
 
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=mplads)
+A digital wellbeing concept focused on a calmer and more approachable user experience.
 
-</td>
-<td width="50%" valign="top">
+### Sky Predict
 
-### 🌿 Mindful Haven
+A weather-focused experiment with prediction, useful data, and interactive experiences.
 
-A digital wellbeing platform designed around a calmer and more approachable user experience.
+### Pixel Cat
 
-- Next.js, React, TypeScript
-- Supabase, Tailwind CSS
-- Human-centered interface design
-
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=mindful)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Sky Predict
-
-A weather-focused project exploring prediction, useful data, and interactive experiences.
-
-- Python and data workflows
-- Web-based visual exploration
-- Practical prediction experiences
-
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=sky)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐱 Pixel Cat
-
-A playful pixel-art project built around character, interaction, and visual experimentation.
-
-- Creative coding and visual design
-- Interactive web experience
-- Pixel-art driven interface
-
-[View repositories →](https://github.com/the-nidhi-bhat?tab=repositories&q=pixel-cat)
-
-</td>
-</tr>
-</table>
+A playful pixel-art project for creative coding and visual experimentation.
 
 ---
 ## Tech Stack
 
-### Languages
+### Learning / Familiar With
 
 <p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" alt="Python, C, C++, HTML, CSS, JavaScript" />
-</p>
-
-### Frontend &amp; UI
-
-<p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma" alt="React, Next.js, TypeScript, Tailwind CSS, Figma" />
-</p>
-
-### Backend &amp; Databases
-
-<p>
-    <img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres" alt="FastAPI, Supabase, PostgreSQL" />
-</p>
-
-### AI / ML / Data
-
-<p>
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy" alt="Scikit-learn, Pandas, NumPy" />
-    <img src="https://img.shields.io/badge/NetworkX-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" />
-    <img src="https://img.shields.io/badge/Sentence%20Transformers-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="Sentence Transformers" />
-    <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-    <img src="https://img.shields.io/badge/Prompt%20Engineering-0891B2?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
-</p>
-
-### Tools &amp; Workflow
-
-<p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" />
-</p>
-
-### Deployment
-
-<p>
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,render,gcp,aws,docker" alt="Vercel, Netlify, Render, Google Cloud, AWS, Docker" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,figma,git,github,vscode,vercel,supabase,firebase,gcp,aws" alt="Python, C, C++, HTML, CSS, Figma, Git, GitHub, VS Code, Vercel, Supabase, Firebase, Google Cloud, AWS" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logoColor=white" alt="Lovable" />
 </p>
 
 ### Currently Exploring
 
 <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,pytorch" alt="Node.js, MongoDB, PyTorch" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,ts,tailwind,nodejs,fastapi,postgres,mongodb,pytorch" alt="JavaScript, React, Next.js, TypeScript, Tailwind CSS, Node.js, FastAPI, PostgreSQL, MongoDB, PyTorch" />
 </p>
+
+> I am actively learning and experimenting with the tools above, so I do not present them as expert skills.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/me.gif" width="100%" alt="Nebula animation" />
@@ -190,13 +119,13 @@ A playful pixel-art project built around character, interaction, and visual expe
 ## 📚 Learning Log
 
 ```text
-REACT.JS        █████████░░░
-TYPESCRIPT      ████████░░░░
-NEXT.JS         ████████░░░░
-AI / ML         ██████░░░░░░
-DSA             █████░░░░░░░
-FULL-STACK      ██████░░░░░░
-UI / UX         ███████░░░░░
+HTML / CSS      █████░░░░░░░
+PYTHON          █████░░░░░░░
+C / C++         ████░░░░░░░░
+SQL             ████░░░░░░░░
+GIT / GITHUB    ████░░░░░░░░
+UI / UX         ███░░░░░░░░░
+WEB STACK       ██░░░░░░░░░░
 ```
 
 **Current mindset:**
