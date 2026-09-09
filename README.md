@@ -1,7 +1,7 @@
 # ABOUT ME
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
+    <img src="assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ These are learning projects and experiments. Their tools reflect what I am explo
 > I am actively learning and experimenting with the tools above, so I do not present them as expert skills.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/the-nidhi-bhat/the-nidhi-bhat/main/assets/me.gif" width="100%" alt="Nebula animation" />
+    <img src="assets/me.gif" width="100%" alt="Nebula animation" />
 </p>
 
 ---
