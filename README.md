@@ -42,21 +42,28 @@ I like taking messy problems, finding the signal inside them, and turning that s
 
 These are learning projects and experiments. Their tools reflect what I am exploring, not expert-level experience.
 
-### MPLADS Sentinel
-
-An experiment with explainable AI and data-driven audit signals for public-development projects.
-
-### Mindful Haven
-
-A digital wellbeing concept focused on a calmer and more approachable user experience.
-
-### Sky Predict
-
-A weather-focused experiment with prediction, useful data, and interactive experiences.
-
-### Pixel Cat
-
-A playful pixel-art project for creative coding and visual experimentation.
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <h3>MPLADS Sentinel</h3>
+            <p>An experiment with explainable AI and data-driven audit signals for public-development projects.</p>
+        </td>
+        <td width="50%" valign="top">
+            <h3>Mindful Haven</h3>
+            <p>A digital wellbeing concept focused on a calmer and more approachable user experience.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <h3>Sky Predict</h3>
+            <p>A weather-focused experiment with prediction, useful data, and interactive experiences.</p>
+        </td>
+        <td width="50%" valign="top">
+            <h3>Pixel Cat</h3>
+            <p>A playful pixel-art project for creative coding and visual experimentation.</p>
+        </td>
+    </tr>
+</table>
 
 ---
 ## Tech Stack
