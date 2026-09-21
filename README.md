@@ -85,7 +85,7 @@ These are learning projects and experiments. Their tools reflect what I am explo
 > I am actively learning and experimenting with the tools above, so I do not present them as expert skills.
 
 <p align="center">
-    <img src="assets/nidih-loop.svg" width="100%" alt="Terminal animation" />
+    <img src="assets/me.gif" width="100%" alt="Nebula animation" />
 </p>
 
 ---
