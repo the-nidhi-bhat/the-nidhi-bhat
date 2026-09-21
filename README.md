@@ -1,4 +1,4 @@
-# ABOUT ME
+# `ABOUT ME`
 
 <p align="center">
     <img src="assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
@@ -30,7 +30,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-## About Me
+## `About Me`
 
 I like taking messy problems, finding the signal inside them, and turning that signal into something people can actually use.
 
@@ -38,37 +38,37 @@ I like taking messy problems, finding the signal inside them, and turning that s
 
 ---
 
-## Featured Works
+## `Featured Works`
 
 These are learning projects and experiments. Their tools reflect what I am exploring, not expert-level experience.
 
 <table>
     <tr>
         <td width="50%" valign="top">
-            <h3>MPLADS Sentinel</h3>
+            <h3><a href="https://github.com/the-nidhi-bhat/mplads-sentinel">MPLADS Sentinel</a></h3>
             <p>An experiment with explainable AI and data-driven audit signals for public-development projects.</p>
         </td>
         <td width="50%" valign="top">
-            <h3>Mindful Haven</h3>
+            <h3><a href="https://github.com/the-nidhi-bhat/Mind-Haven">Mindful Haven</a></h3>
             <p>A digital wellbeing concept focused on a calmer and more approachable user experience.</p>
         </td>
     </tr>
     <tr>
         <td width="50%" valign="top">
-            <h3>Sky Predict</h3>
+            <h3><a href="https://github.com/the-nidhi-bhat/SKY-PREDICT-JARVIS">Sky Predict</a></h3>
             <p>A weather-focused experiment with prediction, useful data, and interactive experiences.</p>
         </td>
         <td width="50%" valign="top">
-            <h3>Pixel Cat</h3>
-            <p>A playful pixel-art project for creative coding and visual experimentation.</p>
+            <h3><a href="https://github.com/the-nidhi-bhat/agrin-crop-advisor">AgriN</a></h3>
+            <p>An AI crop-health companion that turns leaf photos into plain-language advice — in English and Kannada.</p>
         </td>
     </tr>
 </table>
 
 ---
-## Tech Stack
+## `Tech Stack`
 
-### Learning / Familiar With
+### `Learning / Familiar With`
 
 <p>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,figma,git,github,vscode,vercel,supabase,firebase,gcp,aws" alt="Python, C, C++, HTML, CSS, Figma, Git, GitHub, VS Code, Vercel, Supabase, Firebase, Google Cloud, AWS" />
@@ -76,7 +76,7 @@ These are learning projects and experiments. Their tools reflect what I am explo
     <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logoColor=white" alt="Lovable" />
 </p>
 
-### Currently Exploring
+### `Currently Exploring`
 
 <p>
     <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,ts,tailwind,nodejs,fastapi,postgres,mongodb,pytorch" alt="JavaScript, React, Next.js, TypeScript, Tailwind CSS, Node.js, FastAPI, PostgreSQL, MongoDB, PyTorch" />
@@ -85,14 +85,14 @@ These are learning projects and experiments. Their tools reflect what I am explo
 > I am actively learning and experimenting with the tools above, so I do not present them as expert skills.
 
 <p align="center">
-    <img src="assets/me.gif" width="100%" alt="Nebula animation" />
+    <img src="assets/nidih-loop.svg" width="100%" alt="Terminal animation" />
 </p>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" alt="Section divider" />
 
-## 📊 GitHub Stats
+## 📊 `GitHub Stats`
 
 <p align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=the-nidhi-bhat&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%" alt="Nidhi's GitHub Stats" />
@@ -111,7 +111,7 @@ These are learning projects and experiments. Their tools reflect what I am explo
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 `Contribution Snake`
 
 <p align="center">
     <picture>
@@ -123,7 +123,7 @@ These are learning projects and experiments. Their tools reflect what I am explo
 
 ---
 
-## 📚 Learning Log
+## 📚 `Learning Log`
 
 ```text
 HTML / CSS      █████░░░░░░░
