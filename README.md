@@ -88,6 +88,10 @@ These are learning projects and experiments. Their tools reflect what I am explo
     <img src="assets/me.gif" width="100%" alt="Nebula animation" />
 </p>
 
+<p align="center">
+    <img src="assets/nidih-loop.svg" width="100%" alt="Terminal animation" />
+</p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" alt="Section divider" />
