@@ -1,24 +1,57 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse">
       <stop stop-color="#070B1F"/>
-      <stop offset="0.55" stop-color="#123B58"/>
-      <stop offset="1" stop-color="#0891B2"/>
+      <stop offset="0.6" stop-color="#0A2440"/>
+      <stop offset="1" stop-color="#0E3A5A"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.7"/>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="390" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#A5E9F5"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="1"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </linearGradient>
-    <filter id="softGlow" x="-20%" y="-40%" width="140%" height="180%">
-      <feGaussianBlur stdDeviation="10"/>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#22D3EE" fill-opacity="0.8"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="20"/>
     </filter>
   </defs>
-  <rect width="1200" height="260" rx="16" fill="url(#background)"/>
-  <circle cx="1030" cy="38" r="130" fill="#22D3EE" fill-opacity="0.08" filter="url(#softGlow)"/>
-  <circle cx="165" cy="235" r="120" fill="#0E7490" fill-opacity="0.16" filter="url(#softGlow)"/>
-  <path d="M0 214C220 182 354 238 576 208C795 178 956 194 1200 142V260H0V214Z" fill="#06101D" fill-opacity="0.7"/>
-  <rect x="90" y="192" width="1020" height="2" fill="url(#glow)"/>
-  <text x="600" y="116" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="3">NIDHI</text>
-  <text x="600" y="158" text-anchor="middle" fill="#C9EAF2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="2">SOFTWARE DEVELOPER | AI &amp; WEB BUILDER</text>
+
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+
+  <rect x="700" y="30" width="480" height="250" fill="url(#dots)" opacity="0.05"/>
+
+  <g>
+    <circle cx="960" cy="152" r="150" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="1.5"/>
+    <circle cx="960" cy="152" r="108" stroke="#22D3EE" stroke-opacity="0.22" stroke-width="1.5"/>
+    <circle cx="960" cy="152" r="66" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1.5"/>
+  </g>
+  <circle cx="960" cy="152" r="16" fill="#22D3EE" opacity="0.45" filter="url(#glow)"/>
+  <circle cx="960" cy="152" r="5" fill="#7DD3FC"/>
+
+  <rect x="24" y="24" width="1152" height="34" rx="10" fill="#050914" fill-opacity="0.75"/>
+  <circle cx="46" cy="41" r="5" fill="#FF5F57"/>
+  <circle cx="66" cy="41" r="5" fill="#FEBC2E"/>
+  <circle cx="86" cy="41" r="5" fill="#28C840"/>
+  <text x="1152" y="46" text-anchor="end" fill="#5B7A94" font-family="Consolas, Courier New, monospace" font-size="13">nidhi-profile.md</text>
+
+  <text x="64" y="178" fill="url(#nameGrad)" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="96" font-weight="800" letter-spacing="1">NIDHI</text>
+
+  <text x="66" y="224" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="4">
+    <tspan fill="#E2E8F0">SOFTWARE DEVELOPER</tspan>
+    <tspan fill="#38BDF8" dx="14">|</tspan>
+    <tspan fill="#22D3EE" dx="14">AI &amp; WEB BUILDER</tspan>
+  </text>
+
+  <rect x="66" y="246" width="400" height="2" fill="url(#rule)"/>
+
+  <rect x="64" y="262" width="248" height="24" rx="12" fill="#0E7490" fill-opacity="0.18"/>
+  <rect x="64" y="262" width="248" height="24" rx="12" stroke="#22D3EE" stroke-opacity="0.4"/>
+  <text x="78" y="279" font-family="Consolas, Courier New, monospace" font-size="13" fill="#7DD3FC">● ONLINE · LEARN → BUILD → SHIP</text>
+
+  <rect x="24" y="282" width="1152" height="1" fill="#22D3EE" fill-opacity="0.08"/>
 </svg>
