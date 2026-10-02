@@ -165,3 +165,4 @@ Now go build something. 🚀
 <p align="center">
     <i>keep building. keep learning.</i>
 </p>
+<img width="1774" height="924" alt="image" src="https://github.com/user-attachments/assets/aeaaa164-a9ec-48fb-b217-a09a0a5ac86d" />
