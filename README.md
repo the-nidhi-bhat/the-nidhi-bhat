@@ -66,6 +66,7 @@ These are learning projects and experiments. Their tools reflect what I am explo
 </table>
 
 ---
+
 ## `Tech Stack`
 
 ### `Learning / Familiar With`
@@ -163,6 +164,5 @@ Now go build something. 🚀
 ---
 
 <p align="center">
-    <i>keep building. keep learning.</i>
+    <i>keep  building. keep learning.</i>
 </p>
-
