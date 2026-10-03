@@ -137,7 +137,7 @@ C / C++         ████░░░░░░░░
 SQL             ████░░░░░░░░
 GIT / GITHUB    ████░░░░░░░░
 UI / UX         ███░░░░░░░░░
-WEB STACK       ██░░░░░░░░░░
+WEB STACKS       ██░░░░░░░░░░
 ```
 
 **Current mindset:**
