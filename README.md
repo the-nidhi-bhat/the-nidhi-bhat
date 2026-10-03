@@ -1,4 +1,4 @@
-# `ABOUT ME`
+ # `ABOUT ME -I AM NIDHI`
 
 <p align="center">
     <img src="assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
