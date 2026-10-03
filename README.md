@@ -1,5 +1,5 @@
 # `ABOUT ME`
- 
+
 <p align="center">
     <img src="assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
 </p>
@@ -19,7 +19,7 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│  NIDHI .EXE                                               │
+│  NIDHI.EXE                                               │
 │                                                          │
 │  STATUS      ● ONLINE                                    │
 │  ROLE        CSBS STUDENT / BUILDER                      │
@@ -66,6 +66,7 @@ These are learning projects and experiments. Their tools reflect what I am explo
 </table>
 
 ---
+
 ## `Tech Stack`
 
 ### `Learning / Familiar With`
@@ -165,4 +166,3 @@ Now go build something. 🚀
 <p align="center">
     <i>keep building. keep learning.</i>
 </p>
-
