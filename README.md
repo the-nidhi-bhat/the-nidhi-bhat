@@ -164,5 +164,5 @@ Now go build something. 🚀
 ---
 
 <p align="center">
-    <i>keep  building. keep learning.</i>
+    <i>keep building.   keep learning.</i>
 </p>
