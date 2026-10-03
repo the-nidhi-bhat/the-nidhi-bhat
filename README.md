@@ -1,4 +1,4 @@
-# `ABOUT ME`
+ # `ABOUT ME -I AM NIDHI `
 
 <p align="center">
     <img src="assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
@@ -156,7 +156,7 @@ There are two kinds of developers:
 1. Those who wait until they know everything.
 2. Those who build while learning.
 
-I'm trying to be #2.
+I'm  trying  to  be  #2.
 
 Now go build something. 🚀
 ```
