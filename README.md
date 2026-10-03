@@ -1,5 +1,5 @@
 # `ABOUT ME`
-
+ 
 <p align="center">
     <img src="assets/header.svg" alt="Nidhi, software developer and AI web builder" width="100%" />
 </p>
@@ -19,7 +19,7 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│  NIDHI.EXE                                               │
+│  NIDHI .EXE                                               │
 │                                                          │
 │  STATUS      ● ONLINE                                    │
 │  ROLE        CSBS STUDENT / BUILDER                      │
