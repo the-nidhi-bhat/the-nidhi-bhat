@@ -130,6 +130,8 @@ These are learning projects and experiments. Their tools reflect what I am explo
 
 ## 📚 `Learning Log`
 
+These bars show my current learning progress, not a measure of proficiency.
+
 ```text
 HTML / CSS      █████░░░░░░░
 PYTHON          █████░░░░░░░
